@@ -12,3 +12,4 @@ This is a simple AI chatbot using Google’s Gemini API.
    ```bash
    git clone https://github.com/Kavisree-29/AI-Chatbot.git
    cd AI-Chatbot
+
