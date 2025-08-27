@@ -13,28 +13,28 @@ This is a simple AI chatbot using Google’s Gemini API.
    git clone https://github.com/Kavisree-29/AI-Chatbot.git
    cd AI-Chatbot
 
-## Install the required packages:
+2. Install the required packages:
+   ```bash
+   pip install -r requirements.txt
 
-pip install -r requirements.txt
-
-Create a .env file in the root directory and add your API key:
-
-MY_API_KEY=your_api_key_here
+3. Create a .env file in the root directory and add your API key:
+   ```ini
+   MY_API_KEY=your_api_key_here
 
 ## Usage
-Run the chatbot script from the command line:
+1. Run the chatbot script from the command line:
+   ```bash
+   python chatbot2.py
 
-python chatbot2.py
+2. You can then chat interactively with the AI. To exit, type one of the following commands:
 
-You can then chat interactively with the AI. To exit, type one of the following commands:
+   quit
 
-quit
+   bye
 
-bye
+   exit
 
-exit
-
-thank you
+   thank you
 
 ## Requirements
 Make sure you have the following packages installed:
